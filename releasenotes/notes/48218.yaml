@@ -5,4 +5,4 @@ area: installation
 # release notes.
 releaseNotes:
   - |
-    **Added** istio/gateway helm chart support for specifying the rolling update deployment strategy.
+    **Added** istio/gateway helm chart support for specifying deployment strategy.
